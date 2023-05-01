@@ -3,6 +3,7 @@
 Simple Python Website Scraper With Randomized Proxies.
 
 Created to learn more about website scraping.
+
 For educational purposes only!
 
 ## Installation
