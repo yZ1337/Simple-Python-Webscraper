@@ -24,6 +24,3 @@ $ python3 -m pip install -r requirements.txt
 $ python3 main.py
 ```
 
-## Developers and maintainers
-
-- [@oVeXz](https://github.com/oVeXz)
